@@ -10,5 +10,5 @@ function formatMessage(username, text) {
   };
 }
 
-// export
+// export formatedMessages
 module.exports = formatMessage;
